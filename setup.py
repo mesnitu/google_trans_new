@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='google_trans_new_fix',
-    version='0.0.1',
+    version='1.0.0',
     packages=['google_trans_new_fix'],
     url='',
     license='MIT',
